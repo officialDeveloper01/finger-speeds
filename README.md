@@ -1,6 +1,6 @@
 # Finger Speeds 🖮
 
-OpenType is a minimalistic typing speed testing app built with React and TailwindCSS that highly inspired by [MonkeyType](https://www.monkeytype.com). The app allows users to test and improve their typing speed and accuracy. The app provides a user-friendly interface and intuitive feedback on typing performance.
+Finger Speeds is a minimalistic typing speed testing app built with React and TailwindCSS that highly inspired by [MonkeyType](https://www.monkeytype.com). The app allows users to test and improve their typing speed and accuracy. The app provides a user-friendly interface and intuitive feedback on typing performance.
 
 ## Live Demo
 
@@ -25,7 +25,7 @@ Check out the live demo [here](https://fingerspeeds.vercel.app).
 
 ## Screenshots with different themes
 
-<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/OpenType/blob/main/screenshots/screenshot-0.png?raw=true">
+<img width="800" alt="Screen Shot 2022-08-28 at 9 15 36 AM" src="https://github.com/Estifanos12/Finger Speeds/blob/main/screenshots/screenshot-0.png?raw=true">
 
 <br>
 
