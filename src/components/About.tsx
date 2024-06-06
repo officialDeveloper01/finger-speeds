@@ -5,7 +5,7 @@ const AboutPage = () => {
   return (
     <div className='m-auto flex h-[90%] w-[90%] flex-col gap-7 py-10 font-mono text-lg'>
       <div className='flex flex-col gap-3'>
-        <h1 className='text-3xl font-bold'>About OpenType</h1>
+        <h1 className='text-3xl font-bold'>About FingerSpeeds</h1>
         <p className=''>
           Finger Speeds is a minimalistic typing speed testing app built with React
           and TailwindCSS that highly inspired by{' '}
@@ -71,6 +71,14 @@ const AboutPage = () => {
             rel='noopener noreferrer'
           >
             Instagram
+          </a>
+          <a
+            href='https://www.linkedin.com/in/kuttyjain/'
+            target='_blank'
+            className='hover:underline'
+            rel='noopener noreferrer'
+          >
+            LinkedIn
           </a>
         </div>
         <div className='flex items-center gap-3'>
