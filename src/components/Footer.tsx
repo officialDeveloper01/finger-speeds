@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { BsGithub, BsTelegram, BsCodeSlash, BsInstagram } from 'react-icons/bs';
+import { BsGithub, BsTelegram, BsCodeSlash, BsInstagram, BsLinkedin } from 'react-icons/bs';
 import { useThemeContext } from '../hooks/useTheme';
 
 import Tooltip from './Tooltip';
@@ -29,10 +29,19 @@ const Footer = () => {
           <Tooltip tooltipId='Instagram'>
             <Social
               url='https://instagram.com/kuttyjain'
-              tooltipContent='WhatsApp'
-              tooltipId='whatsapp'
+              tooltipContent='Instagram'
+              tooltipId='instagram'
             >
               <BsInstagram className='text-2xl' />
+            </Social>
+          </Tooltip>
+          <Tooltip tooltipId='Instagram'>
+            <Social
+              url='https://linkedin.com/in/kuttyjain'
+              tooltipContent='Linkedin'
+              tooltipId='linkedin'
+            >
+              <BsLinkedin className='text-2xl' />
             </Social>
           </Tooltip>
 
